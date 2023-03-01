@@ -228,7 +228,7 @@ Version 4.0 HI-TECH Software Intermediate Code
 [; ;/opt/microchip/xc8/v2.10/pic/include/pic16f886.h: 3370: __asm("EECON2 equ 018Dh");
 [; <" EECON2 equ 018Dh ;# ">
 "17 configuration_bits.c
-[p x FOSC = XT ]
+[p x FOSC = HS ]
 "18
 [p x WDTE = OFF ]
 "19

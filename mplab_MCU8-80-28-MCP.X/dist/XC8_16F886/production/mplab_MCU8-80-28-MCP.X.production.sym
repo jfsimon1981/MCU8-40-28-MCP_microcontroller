@@ -63,7 +63,6 @@ __Htext 0 0 ABS 0
 __Ltext 0 0 ABS 0
 end_of_initialization 11 0 CODE 0
 ___stacklo 0 0 ABS 0
-__CFG_FOSC$XT 0 0 ABS 0
 __Hstrings 0 0 ABS 0
 __Lstrings 0 0 ABS 0
 __Hbank0 0 0 ABS 0
@@ -98,6 +97,7 @@ __Hspace_2 0 0 ABS 0
 __Lspace_2 0 0 ABS 0
 __Hcinit 15 0 CODE 0
 __Lcinit F 0 CODE 0
+__CFG_FOSC$HS 0 0 ABS 0
 __size_of_ConfigureOscillator 0 0 ABS 0
 __Hspace_3 0 0 ABS 0
 __Lspace_3 0 0 ABS 0
@@ -142,7 +142,7 @@ config 400E 4011 CONFIG 400E 0
 cstackCOMMON 70 74 COMMON 70 1
 %locals
 dist/XC8_16F886/production/mplab_MCU8-80-28-MCP.X.production.o
-/tmp/xcXBxLtrC.s
+/tmp/xcX2PknRN.s
 1063 F 0 CODE 0
 1066 F 0 CODE 0
 1080 F 0 CODE 0

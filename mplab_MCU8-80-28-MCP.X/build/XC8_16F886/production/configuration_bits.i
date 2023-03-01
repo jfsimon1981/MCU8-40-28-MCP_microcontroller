@@ -2374,7 +2374,7 @@ extern __bank0 __bit __timeout;
 # 28 "/opt/microchip/xc8/v2.10/pic/include/xc.h" 2 3
 # 7 "configuration_bits.c" 2
 # 17 "configuration_bits.c"
-#pragma config FOSC = XT
+#pragma config FOSC = HS
 #pragma config WDTE = OFF
 #pragma config PWRTE = OFF
 #pragma config MCLRE = ON
