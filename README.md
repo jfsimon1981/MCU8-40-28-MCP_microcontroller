@@ -4,7 +4,7 @@
 MCU 8/80-28-MCP is a modular board to host with 28-pin
 PIC16F886 or similar microcontrollers.
 
-Buy a board at  [LCElectronics](http://lecomptoirelectronique.fr/store/index.php?route=product/category&path=67)
+Buy a board from [LCElectronics](http://lecomptoirelectronique.fr/store/index.php?route=product/category&path=67).
 
 The board has a 8 MHz crystal for high clock accuracy and
 a 32768 Hz crystal for Timer 1 RTC oscillator.
