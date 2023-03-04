@@ -19,5 +19,6 @@ Please see product page and ressources for more informations.
 
 ## Ressources
 
-  - [LCElectronics](http://lecomptoirelectronique.fr/store)
-  - [LCElectronics/MCU8-80-28-MCP](http://lecomptoirelectronique.fr/store/index.php?route=product/category&path=67)
+LCElectronics portal
+  - [Home](http://lecomptoirelectronique.fr/store)
+  - [Product page MCU8-80-28-MCP](http://lecomptoirelectronique.fr/store/index.php?route=product/category&path=67)
