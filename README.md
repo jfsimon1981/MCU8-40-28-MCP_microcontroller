@@ -17,6 +17,7 @@ A single power supply can fit the whole setup.
 
 Please see product page and ressources for more informations.
 
-[LCElectronics](http://lecomptoirelectronique.fr/store)
+## Ressources
 
-[LCElectronics/MCU8-80-28-MCP](http://lecomptoirelectronique.fr/store/index.php?route=product/category&path=67)
+  - [LCElectronics](http://lecomptoirelectronique.fr/store)
+  - [LCElectronics/MCU8-80-28-MCP](http://lecomptoirelectronique.fr/store/index.php?route=product/category&path=67)
